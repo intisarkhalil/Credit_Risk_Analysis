@@ -45,7 +45,7 @@ Algorithm | Recall | Balanced Accuracy Score | F1 |
 | Easy Ensemble AdaBoost | 94% | 93% | 97% | 
 | SMOTEENN | 58% | 63.9% | 73% |
 | Naive Random OverSamping | 60% | 65.7% | 75% |
-| Balanced Random Forest | 87% | 78.8% | 93 |
+| Balanced Random Forest | 87% | 78.8% | 93% |
 | SMOTE | 69% | 66.2% | 82% |
 | Cluster Centroids | 40% | 54.4% | 57% | 
 
