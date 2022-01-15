@@ -39,7 +39,7 @@ last_pymnt_amnt: Last total payment amount received (0.0500331813446525)
 The accuracy score is 0.93 the precision is 0.99 and the recall is 0.94, F1 is 0.97.
 
 ## Summary:
-Looking through the results for the diffrent models, we summarized the performances of the five algorithms, to predeit the low_risk credit as follows table:
+Looking through the results for the diffrent models, we summarized the ```overall``` performances to predict the credit risk in the following table:
 Algorithm | Recall | Balanced Accuracy Score | F1 | 
 | :---: | :---: | :---: | :---: | 
 | Easy Ensemble AdaBoost | 94% | 93% | 97% | 
